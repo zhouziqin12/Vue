@@ -1,0 +1,18 @@
+[
+    {"id" :1 ,"img":"/img/00.png","style1":"KTV","style2":"酒吧"},
+    {"id" :2 ,"img":"/img/014.jpg","style1":"日用","style2":"办公用品"},
+    {"id" :3 ,"img":"/img/001.jpg","style1":"洗浴","style2":"SPA","style":"按摩"},
+    {"id" :4 ,"img":"/img/002.jpg","style1":"观光","style2":"订票","style3":"住宿"},
+    {"id" :5 ,"img":"/img/003.jpg","style1":"美容","style2":"美甲","style3":"美发"},
+    {"id" :6 ,"img":"/img/004.jpg","style1":"电器","style2":"厨房","style3":"化妆品"},
+    {"id" :7 ,"img":"/img/004.jpg","style1":"体育","style2":"高尔夫","style3":"休闲"},
+    {"id" :8 ,"img":"/img/005.jpg","style1":"服装","style2":"箱包","style3":"眼镜"},
+    {"id" :9 ,"img":"/img/006.jpg","style1":"婚庆","style2":"鲜花","style3":"饰品"},
+    {"id" :10,"img":"/img/007.jpg","style1":"保健品","style2":"酒"},
+    {"id" :11,"img":"/img/008.jpg","style1":"茶叶","style2":"茶具"},
+    {"id" :12 ,"img":"/img/010.jpg","style1":"装修","style2":"家具"},
+    {"id" :13 ,"img":"/img/011.jpg","style1":"代驾","style2":"车租凭"},
+    {"id" :14 ,"img":"/img/012.jpg","style1":"学校","style2":"团体机构"},
+    {"id" :15 ,"img":"/img/013.jpg","style1":"物流","style2":"通讯"},
+    {"id" :16 ,"img":"/img/016.jpg","style1":"净水器","style2":"空气净化"}
+]

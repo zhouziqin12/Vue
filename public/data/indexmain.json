@@ -1,0 +1,14 @@
+[
+    {"id":1, "name":"炸鸡" ,"img":"/img/cp.jpg"},
+    {"id":2, "name":"烧烤" ,"img":"/img/cp1.jpg"},
+    {"id":3, "name":"中餐" ,"img":"/img/cp2.jpg"},
+    {"id":4, "name":"猪蹄" ,"img":"/img/cp3.jpg"},
+    {"id":5, "name":"披萨" ,"img":"/img/cp4.jpg"},
+    {"id":6, "name":"寿司.肉包" ,"img":"/img/cp5.jpg"},
+    {"id":7, "name":"盒饭.粥" ,"img":"/img/cp6.jpg"},
+    {"id":8, "name":"拌菜.汤饭" ,"img":"/img/cp7.jpg"},
+    {"id":9, "name":"咖啡店" ,"img":"/img/cp8.jpg"},
+    {"id":10, "name":"蛋糕" ,"img":"/img/cp9.jpg"},
+    {"id":11, "name":"周边美食" ,"img":"/img/cp10.jpg"},
+    {"id":12, "name":"食品超市" ,"img":"/img/cp11.jpg"}
+]
